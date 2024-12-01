@@ -6,9 +6,6 @@
   background-color: lightgoldenrodyellow;
   padding: 5px;
   margin: 30px auto;
-
-
-
 }
 
 .block{
@@ -17,8 +14,6 @@
   margin: 10px;
   border: 1px solid black;
   background-color: lightgreen;
-
-
 }
 
 .left{
@@ -29,10 +24,6 @@
   float: right;
 }
 
-
-.block__fourth--top{
-
-}
 .block__fourth--bottom{
   margin-top: 70px;
   margin-right: -112px;
@@ -41,19 +32,15 @@
   height: calc(50px*2 + 10px);
 }
 
-.block__fifth{}
-
-.block__fifth--bottom{ margin-top: 70px;
+.block__fifth--bottom{ 
+  margin-top: 70px;
   margin-right: -112px;}
 
 .block__fifth--top{
   margin-right: 286px;
-
 }
 
 .block__fifth--large{
   height: calc(50px*2 + 10px);
   margin-left: 290px;
-
-
-  }
+}
